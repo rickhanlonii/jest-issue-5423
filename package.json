@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "jest module.spec.js"
+    "test": "jest"
   },
   "dependencies": {
     "jest": "^22.1.4"
