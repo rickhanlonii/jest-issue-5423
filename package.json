@@ -1,0 +1,15 @@
+{
+  "name": "jest-issue-5423",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest module.spec.js"
+  },
+  "dependencies": {
+    "jest": "^22.1.4"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
